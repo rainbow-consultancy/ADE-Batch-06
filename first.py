@@ -2,13 +2,13 @@ print("Hello World")
 
 # Operators
 
-ArithmeticOperators - +, -, *, /, %, //
+# ArithmeticOperators - +, -, *, /, %, //
 # dev branch
 
-logical Operators -> and, or, not
+# logical Operators -> and, or, not
 
-Comparison Operators -> >, <, >=, <=, ==
+# Comparison Operators -> >, <, >=, <=, ==
 
-name = "Sandeep"
+# name = "Sandeep"
 
-assignment operators -> =, += (a=a+5), -=, *=
+# assignment operators -> =, += (a=a+5), -=, *=
